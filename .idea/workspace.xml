@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e94aa2bb-5d82-48b0-9c2c-88842548f063" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/highlightedFiles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/mastering-nuxt-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/prettier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/LessonCompleteButton.client.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/VideoPlayer.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composables/courseData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composables/useCourse.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/course.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/course/chapter/[chapterSlug]/lesson/[lessonSlug].vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/course/chapter/index.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nuxt.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/course.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/course.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +30,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="from-beginning" />
-                    <option name="lastUsedInstant" value="1669451100" />
+                    <option name="branchName" value="update-styling" />
+                    <option name="lastUsedInstant" value="1669548958" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
